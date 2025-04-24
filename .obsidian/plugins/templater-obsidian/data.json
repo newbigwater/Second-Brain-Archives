@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "00. System/00.01. Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "30. Area.Development",
+      "template": "00. System/03. Template/CMDS_Course_Folder.md"
+    },
+    {
+      "folder": "31. Area.Business",
+      "template": "00. System/03. Template/CMDS_Course_Folder.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

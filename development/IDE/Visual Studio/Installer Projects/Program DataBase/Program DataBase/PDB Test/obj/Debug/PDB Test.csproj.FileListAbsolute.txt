@@ -1,0 +1,5 @@
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Test\bin\Debug\PDB Test.dll
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Test\bin\Debug\PDB Test.pdb
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Test\obj\Debug\PDB Test.csproj.CoreCompileInputs.cache
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Test\obj\Debug\PDB Test.dll
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Test\obj\Debug\PDB Test.pdb

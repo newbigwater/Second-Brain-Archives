@@ -1,0 +1,13 @@
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.csproj.AssemblyReference.cache
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB_Tester.Form1.resources
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB_Tester.Properties.Resources.resources
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.csproj.GenerateResource.cache
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.csproj.CoreCompileInputs.cache
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\bin\Debug\PDB Tester.exe.config
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\bin\Debug\PDB Tester.exe
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\bin\Debug\PDB Tester.pdb
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\bin\Debug\PDB Test.dll
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\bin\Debug\PDB Test.pdb
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.csproj.CopyComplete
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.exe
+E:\20. Business\01. T.U\src\Computer-Science\Application\IDE\Visual Studio\Program DataBase\PDB Tester\obj\Debug\PDB Tester.pdb

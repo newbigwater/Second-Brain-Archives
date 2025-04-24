@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "4bed5127452528ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d5357c55e511831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d2cb162c5ed6e97",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "development/Network/Socket/Network_Socket_Communication.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Network_Socket_Communication"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "558b26de04bb99ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc900ba988b79ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75adc1a8590f77c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64645ad599b18e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "eca3560dcc178bb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60720c8d6b6dd21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "1d8aaf53ddb5f905",
+    "type": "split",
+    "children": [
+      {
+        "id": "f621ef8ad50c4551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9310dd5895fef6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56b872b15fe70e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme"
+            }
+          },
+          {
+            "id": "0287b83af77f3490",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a76a9b61d64d6354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb15120884b273e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Snippet/resharper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for resharper"
+            }
+          },
+          {
+            "id": "7cb770e66a7efc72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Readme"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0e8089076c21a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8acff58237de7c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Readme.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "translate:Open translation view": false,
+      "smart-composer:Open smart composer": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "9d2cb162c5ed6e97",
+  "lastOpenFiles": [
+    "00. System/00.00. Concept/Knowledge Management System.md",
+    "Readme.md",
+    "00. System/00.00. Concept/Knowledge Management System/Second-Brain.md",
+    "00. System/00.00. Concept/Knowledge Management System/Zettelkasten.md",
+    "20. Area/language",
+    "00. System/00.00. Concept/Knowledge Management System",
+    "00. System/00.00. Concept",
+    "00. System/00.01. Template/New Title Template.md",
+    "00. System/00.01. Template/Develop_Note_Template.md",
+    "00. System/00.01. Template/CMDS_Course_Folder.md",
+    "00. System/00.01. Template/Lecture_Note_Template.md",
+    "00. System/00.01. Template/WebClip_Template.md",
+    "00. System/00.01. Template/Merge_Note_Template.md",
+    "30. Resource/development/Programming/Java/Basic/Ch 08. Method/Ch 08. Method.md",
+    "30. Resource/development/DevOps/Docker/초보를 위한 도커 안내서/99. TroubleShooting/01. Port Forwarding.md",
+    "30. Resource/development/DevOps/Docker/초보를 위한 도커 안내서/01. Install/01. Install on windows.md",
+    "40. Project",
+    "30. Resource/language/코딩 실무 영어/Chapter 0. Intro - 시작은 가볍게! 코딩 영어 입문/00. attachments",
+    "30. Resource/implement/Manage/Obsidian/Part 02",
+    "30. Resource/development/System/Windows",
+    "30. Resource/development/System/Linux/CMDS",
+    "30. Resource/development/System/Linux",
+    "30. Resource/development/Software/Algorithm/CMDS",
+    "20. Area/Development/Database/MySql/MySQL Workbench/00. attachments/mysql.svg",
+    "20. Area/Development/Database/MySql/MySQL Workbench/MySQL Workbench.md",
+    "30. Resource/Language/코딩 실무 영어/Chapter 0. Intro - 시작은 가볍게! 코딩 영어 입문/02. Special Characters.md",
+    "30. Resource/Language/코딩 실무 영어/Chapter 0. Intro - 시작은 가볍게! 코딩 영어 입문/03. Case.md",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/Chapter 03. 객체 꾸미기.md",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 02. 객체들에게 연락 돌리기/Chapter 02. 객체들에게 연락 돌리기.md",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 01. 디자인 패턴 소개와 전략 패턴/Chapter 01. 디자인 패턴 소개와 전략 패턴.md",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 00. Principle/Chapter 00. Principle.md",
+    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/03. Multi Table/03. Multi Table.md",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 9.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 8.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 6.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 7.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 5.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 45.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 44.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 43.png",
+    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/헤드 퍼스트 디자인 패턴.md",
+    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/04. Sub Query/04. Sub Query.md",
+    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/02. Structured Query Language/02. Structured Query Language.md",
+    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/01. Development Environment.md",
+    "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
+    "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
+    "Untitled.canvas",
+    "Brain/무제 파일.canvas"
+  ]
+}
