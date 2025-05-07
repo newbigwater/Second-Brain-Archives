@@ -53,7 +53,7 @@
 
 - Project Name : Lesson03
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 - 프로젝트 생성 후 .csproj 파일 수정
     - 수정 방법은 Lesson02를 참고 하세요.
@@ -65,7 +65,7 @@
 
 - 새로 생성된 프로젝트를 솔루션의 시작 프로젝트로 설정
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+![Untitled 1.png](00.%20attachments/Untitled%201.png)
 
 ## 02) Code & Exe
 
@@ -102,13 +102,13 @@ namespace Lesson03 //Lesson03 Project Basic Namespace
 
 ### (02) Exe
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+![Untitled 2.png](00.%20attachments/Untitled%202.png)
 
 ### (03) Mission 01
 
 - 출력 결과를 아래와 같이 출력하세요.
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+    ![Untitled 3.png](00.%20attachments/Untitled%203.png)
     
 
 ### (04) Mission 02
@@ -150,13 +150,13 @@ namespace Lesson03 //Lesson03 Project Basic Namespace
         「System.Windows.Forms」만 추가하자.  
         
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+![Untitled 5.png](00.%20attachments/Untitled%205.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+![Untitled 6.png](00.%20attachments/Untitled%206.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+![Untitled 7.png](00.%20attachments/Untitled%207.png)
 
 ## 02) Winform 화면 작성
 
@@ -208,7 +208,7 @@ namespace Lesson03 //Lesson03 Project Basic Namespace
 
 - 실행 화면
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 8.png|Untitled 8.png](00.%20attachments/Untitled%208.png)
+![Untitled 8.png](00.%20attachments/Untitled%208.png)
 
 ## 03) Class와 Object, Instance…
 
@@ -271,7 +271,7 @@ static void WinformMain()
 
 - 출력 화면
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 9.png|Untitled 9.png](00.%20attachments/Untitled%209.png)
+    ![Untitled 9.png](00.%20attachments/Untitled%209.png)
     
 
 ## 05) 이미지 출력하기
@@ -305,7 +305,7 @@ static void WinformMain()
 
 - 출력 화면
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 10.png|Untitled 10.png](00.%20attachments/Untitled%2010.png)
+    ![Untitled 10.png](00.%20attachments/Untitled%2010.png)
     
 
 ## 06) Mission 03
@@ -313,7 +313,7 @@ static void WinformMain()
 - Label Control과 Picturebox Control를 합쳐보자.
     - Parent 속성 활용을 하면 된다.
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 11.png|Untitled 11.png](00.%20attachments/Untitled%2011.png)
+![Untitled 11.png](00.%20attachments/Untitled%2011.png)
 
 ---
 
@@ -375,4 +375,4 @@ lb.Parent = pic;
         Form 객체의 Controls Property을 받아와 해당 집합 객체에 본인 객체(Label Control)을 추가 함으로써 계층구조를 완성한다.  
         
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 03. C Basic/attachments/Untitled 12.png|Untitled 12.png](00.%20attachments/Untitled%2012.png)
+    ![Untitled 12.png](00.%20attachments/Untitled%2012.png)

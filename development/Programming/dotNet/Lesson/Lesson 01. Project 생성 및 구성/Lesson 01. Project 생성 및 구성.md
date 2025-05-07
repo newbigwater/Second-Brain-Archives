@@ -21,25 +21,25 @@
 
 ### (01) New Project 선택
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 ### (02) Project 생성
 
 - Console Project 생성
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+![Untitled 1.png](00.%20attachments/Untitled%201.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+![Untitled 2.png](00.%20attachments/Untitled%202.png)
 
 - Winform Project 생성
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+![Untitled 3.png](00.%20attachments/Untitled%203.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
 ### (03) 생성된 Solution Directory 구조
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+![Untitled 5.png](00.%20attachments/Untitled%205.png)
 
 ---
 
@@ -63,18 +63,18 @@
     
 - 기존
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+    ![Untitled 6.png](00.%20attachments/Untitled%206.png)
     
 - 신규
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+    ![Untitled 7.png](00.%20attachments/Untitled%207.png)
     
 - 수정 후 Visual Stuio를 띄우면 아래오 같은 창이 뜨는데 모두 재 로드 하자
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 8.png|Untitled 8.png](00.%20attachments/Untitled%208.png)
+![Untitled 8.png](00.%20attachments/Untitled%208.png)
 
 - 이제 새롭게 재 빌드를 진행하면 아래 이미지와 같이 구성되며,  
     기존에 출력되던 bin, obj 폴더는 삭제하면 된다.  
     
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 01. Project 생성 및 구성/attachments/Untitled 9.png|Untitled 9.png](00.%20attachments/Untitled%209.png)
+![Untitled 9.png](00.%20attachments/Untitled%209.png)

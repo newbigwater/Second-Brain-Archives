@@ -46,28 +46,28 @@ private void Form1_Load(object sender, EventArgs e)
 
 - childForms[i].Show();
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+    ![Untitled.png](00.%20attachments/Untitled.png)
     
       
     
 
 - childForms[i].Show(this);
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+    ![Untitled 1.png](00.%20attachments/Untitled%201.png)
     
 
 ## 01.02 MDI
 
 - 창 스타일 변경
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+    ![Untitled 2.png](00.%20attachments/Untitled%202.png)
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+    ![Untitled 3.png](00.%20attachments/Untitled%203.png)
     
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+![Untitled 5.png](00.%20attachments/Untitled%205.png)
 
 ```C#
 private void Form1_Load(object sender, EventArgs e)
@@ -97,7 +97,7 @@ private void LayoutButtonEventHandler(object sender, EventArgs e)
 }
 ```
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+![Untitled 6.png](00.%20attachments/Untitled%206.png)
 
 ---
 
@@ -106,13 +106,13 @@ private void LayoutButtonEventHandler(object sender, EventArgs e)
 - Resource 추가 및 PictureBox
     - 리소스 추가
         
-        ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+        ![Untitled 7.png](00.%20attachments/Untitled%207.png)
         
     - PictureBox에 적용
         
         - 기본 적용
             
-            ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 8.png|Untitled 8.png](00.%20attachments/Untitled%208.png)
+            ![Untitled 8.png](00.%20attachments/Untitled%208.png)
             
         - 특정 시점 적용
             
@@ -127,15 +127,15 @@ private void LayoutButtonEventHandler(object sender, EventArgs e)
         
 - MenuStrip
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 9.png|Untitled 9.png](00.%20attachments/Untitled%209.png)
+    ![Untitled 9.png](00.%20attachments/Untitled%209.png)
     
 - Radio & Check Box & Group Box
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 10.png|Untitled 10.png](00.%20attachments/Untitled%2010.png)
+    ![Untitled 10.png](00.%20attachments/Untitled%2010.png)
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 11.png|Untitled 11.png](00.%20attachments/Untitled%2011.png)
+    ![Untitled 11.png](00.%20attachments/Untitled%2011.png)
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 12.png|Untitled 12.png](00.%20attachments/Untitled%2012.png)
+    ![Untitled 12.png](00.%20attachments/Untitled%2012.png)
     
 - Timer
     
@@ -159,11 +159,11 @@ private void LayoutButtonEventHandler(object sender, EventArgs e)
 
 ## 03.01. ToolStrip & Splitter & Panel
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 13.png|Untitled 13.png](00.%20attachments/Untitled%2013.png)
+![Untitled 13.png](00.%20attachments/Untitled%2013.png)
 
 ## 03.02 TableLayoutPanel
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 14.png|Untitled 14.png](00.%20attachments/Untitled%2014.png)
+![Untitled 14.png](00.%20attachments/Untitled%2014.png)
 
 ---
 
@@ -199,9 +199,9 @@ private void Form1_Load(object sender, EventArgs e)
 }
 ```
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 15.png|Untitled 15.png](00.%20attachments/Untitled%2015.png)
+![Untitled 15.png](00.%20attachments/Untitled%2015.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 16.png|Untitled 16.png](00.%20attachments/Untitled%2016.png)
+![Untitled 16.png](00.%20attachments/Untitled%2016.png)
 
 ```C#
 private void Form1_Load(object sender, EventArgs e)
@@ -259,4 +259,4 @@ private void Form1_Load(object sender, EventArgs e)
 }
 ```
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 05. Winform/attachments/Untitled 17.png|Untitled 17.png](00.%20attachments/Untitled%2017.png)
+![Untitled 17.png](00.%20attachments/Untitled%2017.png)

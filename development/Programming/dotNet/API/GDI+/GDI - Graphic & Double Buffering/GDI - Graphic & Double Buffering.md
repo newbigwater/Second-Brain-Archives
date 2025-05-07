@@ -13,7 +13,7 @@
     - OnPaint에서 이벤트로 받은 Graphics 객체의 HashCode는 함수 호출 시 마다 다르다.
         - 즉, 상위에서 OnPaint 호출시 마다 CreateGraphics로 새로 생성하는 듯하다.
 
-![[Notion/Information Technology/C/it.programming.c/Software Researching/GDI+/GDI - Graphic & Double Buffering/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 ```C#
 using System;
@@ -122,7 +122,7 @@ namespace GDI_POINT
 - Form의 함수인 CreateGraphics()를 통해 받은 Graphics 객체
     - this.CreateGraphics()를 호출해서 Graphics 객체를 받은 후에 OnLoad 이벤트에 Tick을 만들어서 0.1 단위로 다시 그리는 액션을 만듬
 
-![[Notion/Information Technology/C/it.programming.c/Software Researching/GDI+/GDI - Graphic & Double Buffering/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+![Untitled 1.png](00.%20attachments/Untitled%201.png)
 
 ```C#
 using System;

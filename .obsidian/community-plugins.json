@@ -1,5 +1,4 @@
 [
-  "update-relative-links",
   "obsidian-plantuml",
   "oz-clear-unused-images",
   "obsidian-outliner",
@@ -10,5 +9,6 @@
   "smart-composer",
   "workspaces-plus",
   "editing-toolbar",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "update-relative-links-Renewal"
 ]

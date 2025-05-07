@@ -56,7 +56,7 @@
 
 ## 03) Interrupt Handling
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 06. Event/attachments/Untitled.png|Untitled.png](attachments/Untitled.png)
+![Untitled.png](attachments/Untitled.png)
 
 ---
 
@@ -70,7 +70,7 @@
 
 - 발생한 이벤트는 인베트 핸들러(Event Hanler)라는 메서드에서 처리 합니다.
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 06. Event/attachments/Untitled 1.png|Untitled 1.png](attachments/Untitled%201.png)
+    ![Untitled 1.png](attachments/Untitled%201.png)
     
 
 - Event Handler와 Interface의 차이점

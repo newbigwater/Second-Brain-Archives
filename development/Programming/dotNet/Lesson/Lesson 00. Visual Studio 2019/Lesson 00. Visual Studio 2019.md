@@ -41,7 +41,7 @@
 
 ## 01) .Net Desktop 환경 구성
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 ## 02) Project 생성
 
@@ -49,21 +49,21 @@
 
 ### (01) Console (CLI 환경)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+![Untitled 1.png](00.%20attachments/Untitled%201.png)
 
 ### (02) Winform (GUI 환경)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+![Untitled 2.png](00.%20attachments/Untitled%202.png)
 
 ### (03) 구성
 
 - 솔루션 및 프로젝트를 같은 디렉토리에 배치 선택!
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+![Untitled 3.png](00.%20attachments/Untitled%203.png)
 
 ## 03) Project Directory
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
 - 기본적으로 프로젝트를 생성하면, 이미지와 같이 디렉토리가 구성된다.
     
@@ -79,14 +79,14 @@
 
 - C# 컴파일 및 실행 과정
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+    ![Untitled 5.png](00.%20attachments/Untitled%205.png)
     
 
 ---
 
 # 02. Solution Build
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+![Untitled 6.png](00.%20attachments/Untitled%206.png)
 
 ## 01) Rebuild Solution
 
@@ -118,15 +118,15 @@
     
     - 아래 이미지와 같이 좌측 부분을 클릭 하거나, F9를 눌러 설정한다.
         
-        ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+        ![Untitled 7.png](00.%20attachments/Untitled%207.png)
         
     - 설정한 Break point 목록을 확인은 아래와 같이 진행한다.
         
-        ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 8.png|Untitled 8.png](00.%20attachments/Untitled%208.png)
+        ![Untitled 8.png](00.%20attachments/Untitled%208.png)
         
         - 해당 메뉴를 선택하면 아래와 같이 Breakpoints 화면이 보인다.
         
-        ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 9.png|Untitled 9.png](00.%20attachments/Untitled%209.png)
+        ![Untitled 9.png](00.%20attachments/Untitled%209.png)
         
     
       
@@ -134,9 +134,9 @@
 
 > Line 번호를 출력하고 싶으면 Tool → Option → Text Editor → C# → Line Numbers 선택!
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 10.png|Untitled 10.png](00.%20attachments/Untitled%2010.png)
+![Untitled 10.png](00.%20attachments/Untitled%2010.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 11.png|Untitled 11.png](00.%20attachments/Untitled%2011.png)
+![Untitled 11.png](00.%20attachments/Untitled%2011.png)
 
 ---
 
@@ -144,14 +144,14 @@
 
 - Debug Menu에서 Start Debugging 모드로 실행한다.
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 12.png|Untitled 12.png](00.%20attachments/Untitled%2012.png)
+    ![Untitled 12.png](00.%20attachments/Untitled%2012.png)
     
     - 디버깅을 종료하고 싶을 땐 Shift + F5를 선택한다.
 - Debugging Mode로 실행된 상태
     
     - 설정한 Break point에서 코드 진행이 멈춰있다.
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 13.png|Untitled 13.png](00.%20attachments/Untitled%2013.png)
+    ![Untitled 13.png](00.%20attachments/Untitled%2013.png)
     
 
 ---
@@ -164,15 +164,15 @@
         - 만약 함수를 만나면 함수의 결과값만 반환 받는다.
     - Step Into : Step over와 비슷하지만 다른 점은 만약 함수를 만나면 내부에 접근 가능한 함수 일 경우 해당 함수 내부로 접근한다.
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 14.png|Untitled 14.png](00.%20attachments/Untitled%2014.png)
+![Untitled 14.png](00.%20attachments/Untitled%2014.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 15.png|Untitled 15.png](00.%20attachments/Untitled%2015.png)
+![Untitled 15.png](00.%20attachments/Untitled%2015.png)
 
 - Debugging Viewer
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 16.png|Untitled 16.png](00.%20attachments/Untitled%2016.png)
+    ![Untitled 16.png](00.%20attachments/Untitled%2016.png)
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 17.png|Untitled 17.png](00.%20attachments/Untitled%2017.png)
+    ![Untitled 17.png](00.%20attachments/Untitled%2017.png)
     
     - Call Stack : 프로세스 내 함수 호출 구조
         - 위 이미지와 같은 경우, Main 함수에서 func() 함수를 호출하여 func 함수 내부에서 Debuging 중인 함수 호출 구조가 보여 진다.
@@ -184,18 +184,18 @@
 
 - Create a new project
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 18.png|Untitled 18.png](00.%20attachments/Untitled%2018.png)
+    ![Untitled 18.png](00.%20attachments/Untitled%2018.png)
     
 - Blank solution
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 19.png|Untitled 19.png](00.%20attachments/Untitled%2019.png)
+    ![Untitled 19.png](00.%20attachments/Untitled%2019.png)
     
 - Configuration
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 20.png|Untitled 20.png](00.%20attachments/Untitled%2020.png)
+![Untitled 20.png](00.%20attachments/Untitled%2020.png)
 
 - 생성된 빈 솔루션 및 디렉토리
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 21.png|Untitled 21.png](00.%20attachments/Untitled%2021.png)
+![Untitled 21.png](00.%20attachments/Untitled%2021.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 00. Visual Studio 2019/attachments/Untitled 22.png|Untitled 22.png](00.%20attachments/Untitled%2022.png)
+![Untitled 22.png](00.%20attachments/Untitled%2022.png)

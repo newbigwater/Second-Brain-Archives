@@ -46,14 +46,14 @@
 
 - POP
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+    ![Untitled.png](00.%20attachments/Untitled.png)
     
     - 작업을 수행하기 위해 차례로 호출되는 일련의 프로시저 또는 함수로 설계됨
     - 제어하는 데이터는 보다는 기능에 치중되어 있으며, 데이터는 전역적이며 모든 기능에서 액세스하고 수정할 수 있음
         - 이 접근 방식으로 인해 코드를 가독성 및 유지 보수성이 힘들어 진다.
 - OOP
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+    ![Untitled 1.png](00.%20attachments/Untitled%201.png)
     
     - 객체에 중점을 두며, 객체는 데이터와 기능으로 구성된다.
     - 객체간 상호 작용을 통해 기능을 처리하며, 이 접근 방식은 캡슐화 추상화, 상속 및 다형성의 뼈대가 된다.
@@ -65,7 +65,7 @@
 
 # 02. OOP의 기본 구성 요소
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+![Untitled 2.png](00.%20attachments/Untitled%202.png)
 
 > 하나의 모델이 되는 청사진(blueprint)를 설계하고 → Class  
 > 그 청사진을 바탕으로 한 객체(object)를 생성하는 → Instance  
@@ -85,7 +85,7 @@
     - 함수 (Method)
         - Operation이라고도 하며, 이름, 타입, 매개변수들과 연관된 행위를 호출 할 때 제약사항이 요구되는데, 이 제약 사항을 명세하는 클래스의 행위적 특징
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+![Untitled 3.png](00.%20attachments/Untitled%203.png)
 
 ## 03) Instance vs Object
 
@@ -131,7 +131,7 @@
 
 ## 01) Abstraction; 추상화
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
 - 어떤 영역에서 필요로 하는 속성이나 기능을 추출하는 작업
 - 데이터 구조, 표현방법에 대한 추상화
@@ -139,7 +139,7 @@
 
 ## 02) Encapsulation; 캡슐화
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+![Untitled 5.png](00.%20attachments/Untitled%205.png)
 
 - 데이터를 감싸서 외부에서 사용 가능한 부분만을 제공 (Infomation hiding)
 - 사용하는 코드(클라이언트 코드)가 세부적인 사항을 알 필요가 없음
@@ -147,7 +147,7 @@
 
 ## 03) Generalization; 상속성
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+![Untitled 6.png](00.%20attachments/Untitled%206.png)
 
 - 일반적인(general) 개념의 객체에서 보다 구체적인(specific) 개념의 객체의 관계를 표현
 - 상속관계의 클래스는 상위 클래스의 타입을 내포함
@@ -155,7 +155,7 @@
 
 ## 04) Polymorphism; 다형성
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 04. OOP/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+![Untitled 7.png](00.%20attachments/Untitled%207.png)
 
 - 같은 메세지, 같은 구현에 대해 각 객체가 다른 표현과 결과를 나타내는 것
 - 클래스의 상속, 인터페이스의 구현 시에 각각의 다른 구현을 가진 클래스들이 상위 타입으로 업캐스팅이 되고  

@@ -203,5 +203,23 @@
       "modifiers": [],
       "key": "F12"
     }
+  ],
+  "update-relative-links-Renewal:update-all-relative-links": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "update-relative-links-Renewal:update-all-relative-links Renewer": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

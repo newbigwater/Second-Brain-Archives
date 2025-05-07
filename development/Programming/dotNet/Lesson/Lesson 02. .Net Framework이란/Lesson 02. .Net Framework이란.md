@@ -27,7 +27,7 @@
 
 ---
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 # 01. Main
 
@@ -81,11 +81,11 @@ namespace Lesson01.Console
 > .  
 > [https://learn.microsoft.com/ko-kr/dotnet/standard/glossary](https://learn.microsoft.com/ko-kr/dotnet/standard/glossary)  
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 1.png|Untitled 1.png](00.%20attachments/Untitled%201.png)
+![Untitled 1.png](00.%20attachments/Untitled%201.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 2.png|Untitled 2.png](00.%20attachments/Untitled%202.png)
+![Untitled 2.png](00.%20attachments/Untitled%202.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 3.png|Untitled 3.png](00.%20attachments/Untitled%203.png)
+![Untitled 3.png](00.%20attachments/Untitled%203.png)
 
 ## 01) Common Language Runtime; CLR (공용 언어 런타임)
 
@@ -95,9 +95,9 @@ namespace Lesson01.Console
     - native code는 OS에 의해 컴퓨터 기계어로 동작하는 코드로 직접 컴파일되는 코드를 의미하며, 다른 이름으로는 unmanaged code라고도 한다.
     - managed code는 native code와 반대로 인터프리터를 통해 실행되는 코드를 의미하며, 인터프리터로는 Java의 VM과 C#의 CLR이 있다.
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 4.png|Untitled 4.png](00.%20attachments/Untitled%204.png)
+![Untitled 4.png](00.%20attachments/Untitled%204.png)
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 5.png|Untitled 5.png](00.%20attachments/Untitled%205.png)
+![Untitled 5.png](00.%20attachments/Untitled%205.png)
 
   
 
@@ -145,16 +145,16 @@ namespace Lesson01.Console
     - Source Code를 기계어로 번역하는 작업
     - 컴파일을 시행하면 기계어로 번역된 파일이 새롭게 작성되며, 해당 파일을 오브젝트 파일(.obj)이라고 한다.
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 6.png|Untitled 6.png](00.%20attachments/Untitled%206.png)
+    ![Untitled 6.png](00.%20attachments/Untitled%206.png)
     
 - Link
     - 여러 개의 오브젝트 파일을 연결하여 하나의 프로그램을 작성하는 작업
 
-![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 7.png|Untitled 7.png](00.%20attachments/Untitled%207.png)
+![Untitled 7.png](00.%20attachments/Untitled%207.png)
 
 - Code → CLI → CIL → CLR
     
-    ![[Notion/Information Technology/C/it.programming.c/C 교육 자료/Lesson 02. .Net Framework이란/attachments/Untitled 8.png|Untitled 8.png](00.%20attachments/Untitled%208.png)
+    ![Untitled 8.png](00.%20attachments/Untitled%208.png)
     
 
 - C# Compiler

@@ -37,7 +37,7 @@ namespace GDI_POINT
 }
 ```
 
-![[Notion/Information Technology/C/it.programming.c/Software Researching/GDI+/GDI Point 위치/attachments/Untitled.png|Untitled.png](00.%20attachments/Untitled.png)
+![Untitled.png](00.%20attachments/Untitled.png)
 
 ```C#
 using System;
