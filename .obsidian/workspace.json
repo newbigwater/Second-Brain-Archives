@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5357c55e511831",
+        "id": "d7757e79f4703e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2cb162c5ed6e97",
+            "id": "19e9e4ee65d1e2a0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "development/Network/Socket/Network_Socket_Communication.pdf"
+                "file": "language/b/A 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Network_Socket_Communication"
+              "icon": "lucide-file",
+              "title": "A 1"
             }
           }
         ]
@@ -88,12 +100,21 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a0be11c69c797e87",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,8 +278,21 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9d2cb162c5ed6e97",
+  "active": "19e9e4ee65d1e2a0",
   "lastOpenFiles": [
+    "language/a/A.md",
+    "language/b/A 1.md",
+    "language/b/00. attachments/Pasted image 20250512154327.png",
+    "language/b/00. attachments/Pasted image 20250512153732.png",
+    "language/b/00. attachments",
+    "language/b 1",
+    "language/a/00. attachments/Pasted image 20250512154327.png",
+    "language/b",
+    "language/a/00. attachments/Pasted image 20250512153732.png",
+    "language/a/00. attachments/Pasted image 20250512153731.png",
+    "language/a/00. attachments",
+    "development/Network/Socket/Network_Socket_Communication.pdf",
+    "language/a",
     "00. System/00.00. Concept/Knowledge Management System.md",
     "Readme.md",
     "00. System/00.00. Concept/Knowledge Management System/Second-Brain.md",
@@ -276,12 +310,6 @@
     "30. Resource/development/DevOps/Docker/초보를 위한 도커 안내서/99. TroubleShooting/01. Port Forwarding.md",
     "30. Resource/development/DevOps/Docker/초보를 위한 도커 안내서/01. Install/01. Install on windows.md",
     "40. Project",
-    "30. Resource/language/코딩 실무 영어/Chapter 0. Intro - 시작은 가볍게! 코딩 영어 입문/00. attachments",
-    "30. Resource/implement/Manage/Obsidian/Part 02",
-    "30. Resource/development/System/Windows",
-    "30. Resource/development/System/Linux/CMDS",
-    "30. Resource/development/System/Linux",
-    "30. Resource/development/Software/Algorithm/CMDS",
     "20. Area/Development/Database/MySql/MySQL Workbench/00. attachments/mysql.svg",
     "20. Area/Development/Database/MySql/MySQL Workbench/MySQL Workbench.md",
     "30. Resource/Language/코딩 실무 영어/Chapter 0. Intro - 시작은 가볍게! 코딩 영어 입문/02. Special Characters.md",
@@ -295,15 +323,8 @@
     "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled.png",
     "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 8.png",
     "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 6.png",
-    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 7.png",
-    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 5.png",
-    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 45.png",
-    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 44.png",
-    "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/Chapter 03. 객체 꾸미기/00. attachments/Untitled 43.png",
     "30. Resource/Development/Software/DesignPattern/헤드 퍼스트 디자인 패턴/헤드 퍼스트 디자인 패턴.md",
     "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/04. Sub Query/04. Sub Query.md",
-    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/02. Structured Query Language/02. Structured Query Language.md",
-    "30. Resource/Development/Database/SQL 데이터 분석 첫걸음/01. Development Environment.md",
     "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
     "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
     "Untitled.canvas",
