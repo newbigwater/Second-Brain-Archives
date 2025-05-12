@@ -10,5 +10,6 @@
   "workspaces-plus",
   "editing-toolbar",
   "file-tree-alternative",
-  "update-relative-links-Renewal"
+  "update-relative-links-Renewal",
+  "hot-reload"
 ]

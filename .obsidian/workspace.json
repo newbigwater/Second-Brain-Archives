@@ -11,24 +11,10 @@
             "id": "19e9e4ee65d1e2a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/b/A 1.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A 1"
+              "title": "New tab"
             }
           }
         ]
@@ -110,11 +96,22 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "08732a4685e9d5a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
